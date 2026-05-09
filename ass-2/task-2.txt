@@ -1,0 +1,8 @@
+*TASK* -
+Create multi-branch workflow where 4 branches will be there,
+a. Feature
+b. Dev
+c. Test
+d. Prod
+
+The commits which has taken place in the feature branch should needs to merged in the prod branch, but the changes will not take place directly into prod, before that it should go through the "Dev, & Test" branches, so your prod will have the changes in the Test branch, this is known as Branch Workflow so implement it guy's.
